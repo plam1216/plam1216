@@ -1,4 +1,4 @@
-### Hello! 
+## Hello! 
 
 My name is Peter Lam and I am an aspiring software engineer. I'm currently transitioning from a career in music to tech and look forward to being able to merge the two. I was self-taught in audio engineering and music production which has helped prepare my mindset for learning new skills on this journey to becoming a software engineer.
 
