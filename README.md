@@ -10,7 +10,7 @@ My name is Peter Lam and I am an aspiring software engineer. I'm currently trans
 🔮 Hope to one day create my own VST (Virtual Studio Technology)
 
 ### What's New?
-💡 I have been learning the MERN stack and recently designed a full CRUD application inspired by 500px and Instagram. I am also learning Python and SQL.
+💡 I recently created a full CRUD application inspired by Instagram using Node.js, MongoDB, Mongoose, and Express.js. The application allows users to create, edit and delete photo albums.
 
 Check it out:
 [500px](https://github.com/plam1216/500px)
