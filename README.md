@@ -3,7 +3,7 @@
 My name is Peter Lam and I am currently transitioning from a career in music to tech. I hope to be able to merge art and tech through my work as a fullstack developer.
 
 ### About Me:
-📚 Enrolled in General Assembly's Software Engineering Immersive Bootcamp (August 2022 - October 2022)
+📚 Completed General Assembly's Software Engineering Immersive Bootcamp (August 2022 - October 2022)
 
 🎹 Freelance audio engineer and music producer
 
