@@ -13,9 +13,10 @@ My name is Peter Lam and I am currently transitioning from a career in music to 
 💡 I recently created a beat store using Python, Django, PostgreSQL, and Amazon S3, where users can upload audio files to sell to customers. 
 
 Check it out:
-[BeatStars](https://github.com/plam1216/beatstore)
+[RoundTwo](https://github.com/plam1216/roundtwo)
 
 ### Past Projects:
+- [BeatStars](https://github.com/plam1216/beatstore)
 - [500px](https://github.com/plam1216/500px)
 - [Spotify Search](https://github.com/plam1216/Spotify_Search)
 
@@ -31,10 +32,6 @@ Check it out:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
   
@@ -45,6 +42,16 @@ Check it out:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
+                                                                                                                                          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plam1216&layout=compact)](https://github.com/plam1216/github-readme-stats)
