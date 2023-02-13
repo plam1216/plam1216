@@ -1,16 +1,14 @@
 ## Hello! 
 
-My name is Peter Lam and I'm a software engineer based out of NYC. My change in career paths was driven by my desire to find ways to merge art and tech. I enjoy working on projects that are intuitive, user-friendly, and can solve issues artists encounter throughout their creative process.
+My name is Peter Lam and I'm a software engineer based out of NYC. My interest in coding sparked from a desire to find ways to merge art and tech and create the tools for artists to bring their work to life. 
 
 ### About Me:
 📚 Completed General Assembly's Software Engineering Immersive Bootcamp (August 2022 - October 2022)
 
 🎹 Freelance audio engineer and music producer
 
-🔮 Hope to one day create my own VST (Virtual Studio Technology)
-
 ### What's New?
-💡 Since graduating bootcamp I have been learning TypeScript and building applications with React. Most recently, I created a website that suggests random songs for music producers to sample. There is also a button to easily download the song as an MP3 so they don't need to go to an external site to download the file.
+💡 Since graduating bootcamp I have been learning TypeScript and building applications with React, Node.js and MongoDB. Most recently, I created a website that suggests random songs for music producers to sample. There an option to download the song as an MP3 so users don't need to go to an external site to convert link to an MP3 file.
 
 Check it out:
 [Sample Crate](https://github.com/plam1216/sample-crate)
