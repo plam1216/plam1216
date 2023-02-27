@@ -14,6 +14,7 @@ Check it out:
 [Sample Crate](https://github.com/plam1216/sample-crate)
 
 ### Past Projects:
+- [Disney+ Clone](https://github.com/plam1216/disney-clone)
 - [RoundTwo](https://github.com/plam1216/roundtwo)
 - [BeatStars](https://github.com/plam1216/beatstore)
 - [500px](https://github.com/plam1216/500px)
@@ -35,6 +36,8 @@ Check it out:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </p>
 
 <p>
