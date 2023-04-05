@@ -14,6 +14,7 @@ Check it out:
 [Sample Crate](https://github.com/plam1216/sample-crate)
 
 ### Past Projects:
+- [Spoyify Analysis](https://github.com/plam1216/spotify-analysis)
 - [Disney+ Clone](https://github.com/plam1216/disney-clone)
 - [RoundTwo](https://github.com/plam1216/roundtwo)
 - [BeatStars](https://github.com/plam1216/beatstore)
