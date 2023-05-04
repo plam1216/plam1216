@@ -11,8 +11,8 @@ My name is Peter Lam and I'm a software engineer based out of NYC. My interest i
 💡 Since graduating bootcamp I have been learning TypeScript and building applications with React, Node.js and MongoDB. Most recently, I created a website that suggests random songs for music producers to sample. I also created a site that analyzes songs from top Spotify playlists to spot trends among songs in the playlist.
 
 Check it out:
-[Sample Crate](https://github.com/plam1216/sample-crate)
-[Spoyify Analysis](https://github.com/plam1216/spotify-analysis)
+- [Sample Crate](https://github.com/plam1216/sample-crate)
+- [Spoyify Analysis](https://github.com/plam1216/spotify-analysis)
 
 ### Past Projects:
 - [Disney+ Clone](https://github.com/plam1216/disney-clone)
