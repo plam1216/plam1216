@@ -12,7 +12,7 @@ My name is Peter Lam and I'm a software engineer based out of NYC. My interest i
 
 Check it out:
 - [Sample Crate](https://github.com/plam1216/sample-crate)
-- [Spoyify Analysis](https://github.com/plam1216/spotify-analysis)
+- [Spotify Analysis](https://github.com/plam1216/spotify-analysis)
 
 ### Past Projects:
 - [Disney+ Clone](https://github.com/plam1216/disney-clone)
